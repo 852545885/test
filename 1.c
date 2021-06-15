@@ -218,7 +218,11 @@ int TideTime(unsigned int NongDay)
 
 
 
+<<<<<<< HEAD
 
+=======
+//2015-5-12
+>>>>>>> 93d80bcbd0f09cbee9ae30d4df0b7948300bc73f
 
 
 
